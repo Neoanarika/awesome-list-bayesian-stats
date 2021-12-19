@@ -25,7 +25,13 @@ The core idea of bayesian statistics is to treat the parameter we are estimating
 
 ## Blogs and short articles (<30 pages)
 
+1. https://arxiv.org/abs/2011.01808
+
 ## Textbooks
 
-## Recent papers that use information geometery in machine learning
+1. 
+
+## Lecture notes
+
+1. https://people.eecs.berkeley.edu/~jordan/courses/260-spring10/lectures/index.html
 
