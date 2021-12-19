@@ -1,28 +1,41 @@
-# Awesome List Template
+<div align="center">
 
-This is an [awesome-list](https://github.com/sindresorhus/awesome) template with CI to run [awesome-lint](https://github.com/sindresorhus/awesome-lint) and [awesome_bot](https://github.com/dkhamsing/awesome_bot) to be compliant from the beginning.
+<!-- title -->
 
-## Usage
+<!--lint ignore no-dead-urls-->
+# Information Geometry Awesome List [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-1. [generate a template of this repo](https://github.com/jthegedus/awesome-list-template/generate)
-2. edit `readme-template.md`
-   - update the h1 title
-   - update the subtitle
-   - update the description
-   - add img src, make it link to the site of the thing in the image. uncomment the img code.
-   - update `TODO_YOUR_REPO_NAME_HERE` in the "contributors" link and uncomment the line
-3. edit `code_of_conduct.md`
-   - update `TODO_INSERT_YOUR_EMAIL_HERE`
-4. edit `contributing.md`
-   - update `TODO_YOUR_REPO_NAME_HERE`
-5. choose a CI template
-   - GitHub Action: move config folver from `repo-root/ci/.github/` to `repo-root/.github`
-   - Circle CI: move config folder from `repo-root/ci/.circleci/*` to `repo-root/.circleci/*`
-   - GitLab CI: move config file from `repo-root/ci/.gitlab-ci.yml` to the `repo-root/.gitlab-ci.yml`
-6. delete this file
-7. rename `readme-template.md` file to `readme.md`
-8. if using GitHub Actions, rename `readme-template.md` to `readme.md` in the GitHub Workflow file `.github/workflows/lint.yaml`
+<!-- subtitle -->
 
-## Contributing
+This is a list of surveys and textbooks on information geometry to help someone get started in the field. 
+   
+<!-- image -->
 
-Contributions welcome!
+<!-- <a href="" target="_blank" rel="noopener noreferrer">
+  <img src="" />
+</a> -->
+
+<!-- description -->
+
+The core idea of information geometry is to study the parameter space of statistical models as Riemannian manifold where the metric is determine by the Fisher Information matrix
+</div>
+
+<!-- TOC -->
+
+## Blogs and short articles (<30 pages)
+
+1. **Chapter 3 on information projections (2004)**, Imre Csiszar, Paul C. Shields [[pdf]](https://www.stat.berkeley.edu/~binyu/212A/papers/cs.pdf)
+2. **What is information projection (2018)**, Frank Nielsen [[pdf]](https://www.ams.org/journals/notices/201803/rnoti-p321.pdf)
+3. **Information Geometry by Amari (2021)**, Shun-ichi Amari [[pdf]](https://onlinelibrary.wiley.com/doi/abs/10.1111/insr.12464)
+4. **The Many Faces of Information Geometry (2021)**,  Frank Nielsen [[pdf]](https://www.ams.org/journals/notices/202201/rnoti-p36.pdf)
+
+
+## Textbooks
+
+1. **Information Geometry and Its Applications (2016)**, Shun-ichi Amari [[Amazon Link]](https://www.amazon.com/Information-Geometry-Applications-Mathematical-Sciences/dp/4431559779)
+
+## Recent papers that use information geometery in machine learning
+
+1. **A Distributional Approach to Controlled Text Generation (2020)**, Muhammad Khalifa, Hady Elsahar, Marc Dymetman [[pdf]](https://arxiv.org/abs/2012.11635)
+2. **The Information Geometry of Unsupervised Reinforcement Learning (2021)** Benjamin Eysenbach, Ruslan Salakhutdinov, Sergey Levine [[pdf]](https://arxiv.org/abs/2110.02719)
+
