@@ -7,7 +7,7 @@
 
 <!-- subtitle -->
 
-This is a list of surveys and textbooks on information geometry to help someone get started in the field. 
+This is a list of surveys and textbooks on bayesian statistics to help someone get started in the field. 
    
 <!-- image -->
 
